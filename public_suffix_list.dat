@@ -6719,7 +6719,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-05T15:11:20Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-10T15:05:32Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 aaa
@@ -8703,9 +8703,6 @@ nissay
 
 // nokia : Nokia Corporation
 nokia
-
-// northwesternmutual : Northwestern Mutual Registry, LLC
-northwesternmutual
 
 // norton : NortonLifeLock Inc.
 norton
